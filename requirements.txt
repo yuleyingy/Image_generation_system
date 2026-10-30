@@ -1,0 +1,9 @@
+# 开发测试版本：gradio 6.31.0 / jax 0.12.0.1 / optax 0.2.8 / numpy 2.5.3 / scipy 1.18.1 / scikit-image 0.26.0 / matplotlib 3.11.2 / pillow 12.3.0
+jax>=0.4.20
+optax>=0.1.7
+numpy>=1.24
+scipy>=1.10
+scikit-image>=0.21
+matplotlib>=3.7
+pillow>=9.0
+gradio>=4.0
